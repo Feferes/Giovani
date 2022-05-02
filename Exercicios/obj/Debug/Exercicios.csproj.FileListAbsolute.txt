@@ -1,0 +1,7 @@
+C:\Labs\Exercicios\Exercicios\bin\Debug\Exercicios.exe.config
+C:\Labs\Exercicios\Exercicios\bin\Debug\Exercicios.exe
+C:\Labs\Exercicios\Exercicios\bin\Debug\Exercicios.pdb
+C:\Labs\Exercicios\Exercicios\obj\Debug\Exercicios.csprojAssemblyReference.cache
+C:\Labs\Exercicios\Exercicios\obj\Debug\Exercicios.csproj.CoreCompileInputs.cache
+C:\Labs\Exercicios\Exercicios\obj\Debug\Exercicios.exe
+C:\Labs\Exercicios\Exercicios\obj\Debug\Exercicios.pdb
